@@ -41,7 +41,7 @@ Once you have done all exercises and have documented all, you can move towards t
 ##### Here is the ["PWK Labs Learning Path"](https://help.offensive-security.com/hc/en-us/articles/360050473812) this will give you a good start in the lab and which machines to do first along the target service to exploit with the pwk modules applicable to exploit the machines.
 
 1 or 2 weeks before your lab access expired, do the LAB Report for 10 machines in order to get the 5 bonus points (Some machines don't apply review the Bonus points documentation)
-[offsec report website](https://help.offensive-security.com/hc/en-us/articles/360046787731-Penetration-Testing-with-Kali-Linux-Reporting)
+[offsec report website](https://help.offensive-security.com/hc/en-us/articles/360046787731-Penetration-Testing-with-Kali-Linux-Reporting),
 
 ``` I have used these report templates from @whoisflynn https://github.com/whoisflynn/OSCP-Exam-Report-Template ```
 
