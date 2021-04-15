@@ -28,7 +28,7 @@ One of the most important things it's being organized and documentation for this
 - Lab Access
 
 ### Exercices Report ###
-I recommend watch the videos and see the PDF at the same time focus on completing all the exercises in order to get the 5pts bonus, some are not required.
+I recommend watch the videos and the PDF at the same time focus on completing all the exercises in order to get the 5pts bonus, some are not required.
 https://help.offensive-security.com/hc/en-us/articles/360040165632-OSCP-Exam-Guide (Section Bonus Points).
 
 ``` You will have SAs (System Administrators) help throughout the whole course you will be added to a group chat pwk-oscp where you can ask for any of the exercises or request any lab troubleshooting help. ```
@@ -60,7 +60,7 @@ For the local.txt and proof.txt I recommend to take the screenshot running the f
 - #### Watch again Windows Privilege Escalation for OSCP & Beyond! - https://www.udemy.com/course/windows-privilege-escalation/
 - #### Do all 14 BOF machines on TryHackeMe course - Buffer Overflow Prep room https://tryhackme.com/room/bufferoverflowprep
 ![image](https://user-images.githubusercontent.com/33886245/114810762-fdcb0600-9d69-11eb-925c-2556a84ffe82.png)
-- #### Download excel boxes list from TJnull [ TJ Null HTB|Vulnhub boxes list ](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0) and review/take notes on all 63 box write-ups/walk-thrus you can find them online.
+- #### Download excel boxes list from TJnull [ TJ Null HTB|Vulnhub boxes list ](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0) and review/take notes on all 63 box write-ups/walk-thrus, you can find them online.
 
 ## Schedule the exam and good luck!!!!
 
