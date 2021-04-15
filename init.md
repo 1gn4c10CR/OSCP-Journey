@@ -28,7 +28,7 @@ One of the most important things it's being organized and documentation for this
 - Lab Access
 
 ### Exercices Report ###
-I recommend watch the videos and the PDF at the same time focus on completing all the exercises in order to get the 5pts bonus, some are not required.
+I recommend watch the videos and the PDF at the same time focus on completing all the exercises in order to get the 5pts bonus (some are not required).
 https://help.offensive-security.com/hc/en-us/articles/360040165632-OSCP-Exam-Guide (Section Bonus Points).
 
 ``` You will have SAs (System Administrators) help throughout the whole course you will be added to a group chat pwk-oscp where you can ask for any of the exercises or request any lab troubleshooting help. ```
@@ -36,9 +36,9 @@ https://help.offensive-security.com/hc/en-us/articles/360040165632-OSCP-Exam-Gui
 ### Lab Report ###
 Once you have done all exercises and have documented all, you can move towards the LAB where you will have [3 networks](https://help.offensive-security.com/hc/en-us/articles/360046293192-PWK-Network-Introduction-Guide) , 3 Testing Machines (WinServer, Win10, Debian), do as much as machines you can do documenting on your own words the steps on how you got system/root access,
 
-``` You will have a forum website where the pwk-oscp student community is posting "hints" and inquiries for all machines in the 3 networks, take advantage of this, it is a huge help once you hit rabbit holes or get stuck for days. ```
+``` You will have a forum website where the pwk-oscp student community is posting "hints", inquiries for all machines in the 3 networks, take advantage of this, it is a huge help once you hit rabbit holes or get stuck for days. ```
 
-##### Here is the ["PWK Labs Learning Path"](https://help.offensive-security.com/hc/en-us/articles/360050473812) this will give you a good start in the lab and which machines to do first along the target service to exploit with the pwk modules applicable to exploit the machines.
+##### Here is the ["PWK Labs Learning Path"](https://help.offensive-security.com/hc/en-us/articles/360050473812) this will give you a good start in the lab and which machines to do first along the target service ports to exploit with the pwk modules applicable to exploit the machines.
 
 1 or 2 weeks before your lab access expired, do the LAB Report for 10 machines in order to get the 5 bonus points (Some machines don't apply review the Bonus points documentation)
 [offsec report website](https://help.offensive-security.com/hc/en-us/articles/360046787731-Penetration-Testing-with-Kali-Linux-Reporting),
