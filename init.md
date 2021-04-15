@@ -17,8 +17,7 @@ One of the most important things it's being organized and documentation for this
 
 ![image](https://user-images.githubusercontent.com/33886245/114805340-0f0f1500-9d60-11eb-8f72-af4a2dd275a1.png)
 
-- #### Watch IppSec youtube "OSCP Prep playlist"
-https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf
+- #### Watch IppSec youtube "OSCP Prep playlist" - https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf
 
 ### Get started with the PWK/OSCP course
    `"Don not postpone it, people feel intimidated for it but it is normal we have all been there just get started!! the sooner the better...!"`
