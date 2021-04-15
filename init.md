@@ -36,7 +36,7 @@ https://help.offensive-security.com/hc/en-us/articles/360040165632-OSCP-Exam-Gui
 ### Lab Report ###
 Once you have done all exercises and have documented all, you can move towards the LAB where you will have [3 networks](https://help.offensive-security.com/hc/en-us/articles/360046293192-PWK-Network-Introduction-Guide) , 3 Testing Machines (WinServer, Win10, Debian), do as much as machines you can do documenting on your own words the steps on how you got system/root access,
 
-``` You will have a forum website where the pwk-oscp student community is constantly posting "hits" and inquiries for all machines in the 3 networks, take advantage of this it is a huge help once you hit rabbit holes or get stuck for days ```
+``` You will have a forum website where the pwk-oscp student community is posting "hints" and inquiries for all machines in the 3 networks, take advantage of this, it is a huge help once you hit rabbit holes or get stuck for days ```
 
 ##### Here is the ["PWK Labs Learning Path"](https://help.offensive-security.com/hc/en-us/articles/360050473812) this will give you a good start in the lab and which machines to do first and the target service to exploit with the pwk modules applicable to exploit the machines.
 
